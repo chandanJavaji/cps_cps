@@ -29,6 +29,11 @@
 <constructor-arg ref="a"></constructor-arg>
 </bean>
 
+<!--main brach11-->
+<bean id="main_b" class="com.sampleSpring.circularDI.B">
+<constructor-arg ref="a"></constructor-arg>
+</bean>
+
 
 
 </beans>
