@@ -1,5 +1,9 @@
 package com.sampleSpring.circularDI;
 
+/**
+ * Hello world!
+ * planit commit
+ */
 public class B {
 
 	A a;
