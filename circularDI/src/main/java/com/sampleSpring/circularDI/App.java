@@ -7,7 +7,7 @@ import org.springframework.core.io.ClassPathResource;
 
 /**
  * Hello world!
- *
+ * uk_vl commit
  */
 public class App 
 {
